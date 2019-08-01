@@ -6,3 +6,4 @@ function capitalLetter(cap){
 
 var myNewGroceries = groceries.map(capitalLetter);
 console.log(myNewGroceries);
+document.writeln(myNewGroceries);
